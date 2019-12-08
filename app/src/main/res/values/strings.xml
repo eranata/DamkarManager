@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">Damkar Manager</string>
+        <string name="title_logs">Logs</string>
+        <string name="title_report">Report</string>
+        <string name="title_alert">Alert</string>
+        <string name="title_profile">Profile</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654024161893",
+    "firebase_url": "https://damkar-manager.firebaseio.com",
+    "project_id": "damkar-manager",
+    "storage_bucket": "damkar-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654024161893:android:e69e18a3d45201eabae48c",
+        "android_client_info": {
+          "package_name": "com.hexacomb.damkarmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654024161893-5pe3hggkearj0dm7jt2subrpkoebv38f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hexacomb.damkarmanager",
+            "certificate_hash": "7b337db4ccb48024c048a329da00e07ab724714e"
+          }
+        },
+        {
+          "client_id": "654024161893-2ks1vri041fq2jjnis0cn5t92nipi4rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiO7makge8HU1Z5q3f0lYKvjgBkkAcwFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654024161893-2ks1vri041fq2jjnis0cn5t92nipi4rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
